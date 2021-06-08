@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "first_name": "Ba",
+      "last_name": "Nguyễn",
+      "email": "ba@techmaster.vn",
+      "phone": "0965338283",
+      "id": 1
+    },
+    {
+      "first_name": "Béo",
+      "last_name": "Ú",
+      "email": "beo@techmaster.vn",
+      "phone": "0965338283",
+      "id": 2
+    },
+    {
+      "first_name": "Tú",
+      "last_name": "Anh",
+      "email": "ta@techmaster.vn",
+      "phone": "0965338283",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Mỹ",
+      "last_name": "Hạnh",
+      "email": "mh@techmaster.vn",
+      "phone": "09653382xx"
+    },
+    {
+      "id": 5,
+      "first_name": "Duy",
+      "last_name": "Quang",
+      "email": "dq@techmaster.vn",
+      "phone": "09653382xx"
+    },
+    {
+      "id": 6,
+      "first_name": "Quốc",
+      "last_name": "Cường",
+      "email": "qc@techmaster.vn",
+      "phone": "09653382xx"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "Web Front-End 15"
+    }
+  ]
+}
